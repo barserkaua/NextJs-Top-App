@@ -2,7 +2,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	color: var(--black);
+	color: var(--white);
 	font-family: "Noto Sans", sans-serif;
 }
 
@@ -17,8 +17,11 @@ a {
 
 :root {
 	--black: #3B434E;
+	--gray-light: #EBEBEB;
+	--gray-hover: #AAA9A9;
 	--white: white;
 	--primary: #7653FC;
+	--primary-hover: #6140E6;
 	--orange: #FC836D;
 	--red: #DE0000;
 	--green: #1DC37E;
